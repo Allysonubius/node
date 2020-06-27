@@ -1,0 +1,18 @@
+{
+  "name": "apk",
+  "version": "1.0.0",
+  "description": "Introdução ao Node.JS com Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Allysonubius"
+  },
+  "author": "Allyson de Oliveira Brandão",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
